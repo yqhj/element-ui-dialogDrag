@@ -13,8 +13,12 @@ https://www.jb51.net/article/145807.htm
 
 ### 使用方法
 在main.js中引入：
+```
 import './dialogDrag.js';
+```
 
 vue文件中使用：
 在el-dialog标签中加入v-dialogDrag属性：
+```
 <el-dialog v-dialogDrag></el-dialog>
+```
