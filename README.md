@@ -1,7 +1,9 @@
 ### element-ui-dialogDrag
 element-ui可拖拽对话框
 
-基于：https://www.jb51.net/article/145807.htm
+基于：
+https://segmentfault.com/a/1190000016040327
+https://www.jb51.net/article/145807.htm
 
 ### 解决了如下问题
 1. 鼠标松开之后，有时对话框还会跟随鼠标移动。
